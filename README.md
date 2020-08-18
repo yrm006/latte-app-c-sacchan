@@ -12,6 +12,9 @@ A sample applicatio for IchigoLatte
     3. run the binary program.
         >lash> .
 
+* Description
+    >[See blog](https://yrm006.wordpress.com/?p=11353)
+
 
 
 ---
